@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HashedZero I use Github to find information about software I use and like
 - 👀 I love cooking and eating delicious food. Would rather climb and run around in the mountains
 - 🌱 Learning Python, handling a larger development project & making the best of ChatGPT
-- 💞️ Working on a database analysis & AI intergration 
+- 💞️ Working on database analysis with AI intergration 
 - 📫 Message me via Github or reach out to my mom
 
 <!---
